@@ -2,3 +2,5 @@ This is a testing text file.
 It does nothing other than test the fetch side of git.
 
 Might be better using pull?
+
+This is changed on the server.
