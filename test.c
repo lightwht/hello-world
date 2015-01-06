@@ -3,6 +3,6 @@ int squid;
 
 int i;
 
-for(i=0;i++;i<=19){
+for(i=0;i<=19;i++){
   printf("Hello number %d",i);
 }
